@@ -10,7 +10,8 @@
 }
 
 .imgProducto {
-    width: 150px;
+    width: 100px;
+    height: 200px;
     object-fit: contain;
 }
 

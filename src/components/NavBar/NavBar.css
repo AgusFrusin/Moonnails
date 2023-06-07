@@ -12,5 +12,9 @@ li {
     display: inline-block;
     margin: 1rem;
     cursor: pointer;
-    text-decoration: underline;
+
+}
+
+.imgLuna {
+    width: 7rem;
 }

@@ -2,10 +2,10 @@ import React from 'react'
 import'./CartWidget.css'
 
 const CartWidget = () => {
-    const imgLuna = 'https://www.nationalgeographic.com.es/medio/2022/02/08/imagen-de-la-luna-tomada-en-1991_682424f4_800x800.jpg'
+  const imgCarrito = "https://cdn-icons-png.flaticon.com/512/107/107831.png";
   return (
     <div>
-        <img className='imgLuna'src= {imgLuna} alt="Luna" />
+        <img className='imgCarrito'src= {imgCarrito} alt="Luna" />
         <strong>3</strong>
     </div>
   )
