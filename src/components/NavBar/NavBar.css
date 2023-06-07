@@ -1,0 +1,16 @@
+body { 
+    background: linear-gradient(to left, #fcffab, #acffa3);
+}
+header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;  
+    border-bottom: 0.5px dashed black;
+}
+
+li {
+    display: inline-block;
+    margin: 1rem;
+    cursor: pointer;
+    text-decoration: underline;
+}
